@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Sasu 👋  
+Aspiring Data Analyst skilled in SQL, Excel and Power BI.
 
-<!--
-**ssundar-analyst/ssundar-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 2 Data Analyst Internships  
+🔹 4 End-to-End Analytics Projects  
 
-Here are some ideas to get you started:
+Skills:
+SQL | Excel | Power BI | Data Cleaning | Dashboards | RFM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Zetheta RFM Analysis
+- SQL Business Case Study
+- Power BI Sales Dashboard
+- Excel Analytics Project
+
+Open to remote Data Analyst roles.
